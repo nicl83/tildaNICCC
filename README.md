@@ -9,7 +9,7 @@ Create a folder at `/apps/tildaNICCC/`, then copy everything from this repo into
 Reboop your badge, then run tildaNICCC from the menu. Enjoy!
 
 ## Video
-[soon]
+[here](https://youtu.be/GS-TlzXmO1E)
 
 ## Credit
 Credits to Oxygene for the original demo (the data of which is replicated here), and to the EMF Camp badge team for the cool hardware to poke at!
